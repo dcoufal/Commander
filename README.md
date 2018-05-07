@@ -4,6 +4,8 @@
 
 [![Build Status](https://img.shields.io/travis/kylef/Commander/master.svg?style=flat)](https://travis-ci.org/kylef/Commander)
 
+_[Note from Dave: This is a fork of the Commander project which I've done expressly to add Carthage support.]_
+
 Commander is a small Swift framework allowing you to craft beautiful command
 line interfaces in a composable way.
 
